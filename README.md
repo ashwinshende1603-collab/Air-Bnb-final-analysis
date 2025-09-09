@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://media.cntraveller.com/photos/675aff845b9d1f653f9dadab/master/w_1920%2Cc_limit/paris-airbnb%2520paris-dec24.jpeg))
 
 # 🏠 Airbnb Paris Analysis
 
