@@ -1,8 +1,9 @@
+# 🏠 Airbnb Paris Analysis
+
 ![Stunning Paris Airbnb](https://media.cntraveller.com/photos/675aff845b9d1f653f9dadab/master/w_1920%2Cc_limit/paris-airbnb%2520paris-dec24.jpeg)
 You can view the analysis in this Kaggle notebook: [My Kaggle Notebook](https://www.kaggle.com/code/ashwinshende166/airbnb)
 
 
-# 🏠 Airbnb Paris Analysis
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
 
